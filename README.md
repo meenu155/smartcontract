@@ -81,9 +81,6 @@ isOpen: indicates whether entries are allowed
 │   └── Lottery.sol
 ├── tests/
 │   └── Lottery_test.sol
-├── screenshots/
-│   ├── deployment.png
-│   ├── test-results.png
 ├── README.md
 
 🧪 Test Coverage (Remix Solidity Tests)
